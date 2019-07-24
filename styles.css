@@ -1,0 +1,29 @@
+.coverphoto {
+  width: 600px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-family: sans-serif;
+  margin-bottom: 0px;
+}
+
+.username {
+  color: gray;
+  font-family: sans-serif;
+  margin-top: 0px;
+}
+
+.bio {
+  font-family: sans-serif;
+  display: block;
+}
+
+.stats {
+  font-family: sans-serif;
+}
+
+p {
+  display: inline;
+  margin-right: 15px;
+}
